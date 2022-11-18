@@ -1,8 +1,9 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Be%20a%20Developer&fontSize=70&desc=not%20a%20coder)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Be%20a%20Developer&fontSize=70&desc=not%20a%20coder) -->
 
-	
+# Be a Developer, not a coder
+
 ### **🔥 Mostly Used 🔥**
 <p>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
