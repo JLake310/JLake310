@@ -5,7 +5,7 @@
 # Be a Developer, not a coder
 
 ### **🔥 Mostly Used 🔥**
-<p>    
+<p>   
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"></br>
