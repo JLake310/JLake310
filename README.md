@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
-	
+<!-- 	
 #### ✅ Used At Least Once ✅
 <p>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
@@ -36,7 +36,7 @@
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 </p>
 
-
+ -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLake310)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLake310&langs_count=8&hide=&layout=compact&theme=dracula) -->
