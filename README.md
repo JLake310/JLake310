@@ -1,23 +1,24 @@
 <div align=center> 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Be%20a%20Developer&fontSize=70&desc=not%20a%20coder) -->
+<!-- \![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Be%20a%20Developer&fontSize=70&desc=not%20a%20coder) -->
  
 # Be a Developer, not a coder
  
 ### **🔥 Mostly Used 🔥**
 <p>   
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></br>
-	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white">
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"></br>
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+	<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"></br>
+	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"></br>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 <!-- 	
 #### ✅ Used At Least Once ✅
 <p>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"></br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"></br>
