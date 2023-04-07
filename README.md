@@ -23,15 +23,15 @@
 
 📌 **Activities**
 > - **Boostcamp AI Tech 5기** | 네이버 커넥트 재단 | ML | 23.03.06 - 23.08.02
-> - **SWYG 5기** | SWYG | ML | 23.01.19 - 23.03.12
-> - **구름톤 4기** | 카카오, 구름 | FE(WEB) | 22.12.13 - 22.12.16
-> - **SKKUPORTER** | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28
+> - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
+> - [**구름톤 4기**](https://github.com/Levains-house/levains-frontend) | 카카오, 구름 | FE(WEB) | 22.12.13 - 22.12.16
+> - [**SKKUPORTER**](https://github.com/JLake310/SKKUporter-front) | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28
 <!-- > - **22년 동계 알고리즘 특강** | 삼성 SDS | 22.01.03 - 22.01.14 -->
 </br>
 
 🏆 **Awards**
-> - **제 4회 대학생 AI x Bookathon 대회** | 장려상 | ML | 성균관대학교 학술정보관
-> - **캡스톤 디자인 경진대회** | 장려상 | ML | 성균관대학교 소프트웨어대학
+> - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
+> - [**캡스톤 디자인 경진대회**](https://github.com/JLake310/FindColorProject) | 장려상 | ML | 성균관대학교 소프트웨어대학
 </br>
 
 🎓 **Education**
