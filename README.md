@@ -24,6 +24,7 @@
 📌 **Activities**
 > - **Boostcamp AI Tech 5기** | 네이버 커넥트 재단 | ML | 23.03.06 - 23.08.02
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
+> - [**챗GPT MS애저톤**](https://github.com/MOKY4/um-oh-ah-yeh-frontend) | AIFactory | FE(WEB) | 23.04.18 - 23.04.24
 > - [**구름톤 4기**](https://github.com/Levains-house/levains-frontend) | 카카오, 구름 | FE(WEB) | 22.12.13 - 22.12.16
 > - [**SKKUPORTER**](https://github.com/JLake310/SKKUporter-front) | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28
 <!-- > - **22년 동계 알고리즘 특강** | 삼성 SDS | 22.01.03 - 22.01.14 -->
