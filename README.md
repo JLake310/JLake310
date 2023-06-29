@@ -7,10 +7,10 @@
 ### **🔥 Mostly & Recently Used 🔥**
 <p>   
 	<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></br>
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></br>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></br>
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></br>
+ 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"></br>
 	<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -25,6 +25,12 @@
 > - 동료, 조직과 **신뢰**를 기반으로 업무를 할 수 있는 환경을 선호합니다.
 </br>
 
+🏆 **Awards**
+> - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
+> - **제 3회 성균관대 AI·ICT 창의자율과제 공모전** | 1차 과제 선발 | ML | 성균관대학교 ICT명품인재양성사업단
+> - [**캡스톤 디자인 경진대회**](https://github.com/JLake310/FindColorProject) | 장려상 | ML | 성균관대학교 소프트웨어대학
+</br>
+
 📌 **Activities**
 > - **부스트캠프 AI Tech 5기** | 네이버 커넥트재단 | ML | 23.03.06 - 23.08.02
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
@@ -34,12 +40,6 @@
 <!-- > - **22년 동계 알고리즘 특강** | 삼성 SDS | 22.01.03 - 22.01.14 -->
 </br>
 
-🏆 **Awards**
-> - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
-> - **제 3회 성균관대 AI·ICT 창의자율과제 공모전** | 1차 과제 선발 | ML | 성균관대학교 ICT명품인재양성사업단
-> - [**캡스톤 디자인 경진대회**](https://github.com/JLake310/FindColorProject) | 장려상 | ML | 성균관대학교 소프트웨어대학
-
-</br>
 
 🎓 **Education**
 > - **전자전기공학부 전공** | 성균관대학교 | 17.03 - 24.02
@@ -60,6 +60,7 @@
 <!-- 	
 #### ✅ Used At Least Once ✅
 <p>
+	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"></br>
