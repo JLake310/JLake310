@@ -8,21 +8,19 @@
 <p>   
 	<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></br>
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></br>
  	<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></br>
- 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"></br>
-	
-	
-	
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></br>
+ 	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></br>
 </p>
 
 ✨ **Introduce**
 > - 사용자의 **경험**을 중시합니다.
 > - 기획자, 디자이너와의 **협업**에 익숙합니다.
-> - 목표가 있다면 밤을 새서라도 **책임**을 다하려고 노력합니다.
+> - 맡은 업무에 **주인의식**을 가지고 임합니다.
+> - 오픈 소스를 용도에 맞게 **변형**하고 **모듈화**할 수 있습니다.
 > - 동료, 조직과 **신뢰**를 기반으로 업무를 할 수 있는 환경을 선호합니다.
 </br>
 
@@ -33,18 +31,21 @@
 </br>
 
 📌 **Activities**
-> - **부스트캠프 AI Tech 5기** | 네이버 커넥트재단 | ML | 23.03.06 - 23.08.02
+> - [**부스트캠프 AI Tech 5기 최종프로젝트**](https://github.com/JLake310/level3_nlp_finalproject-nlp-07) | 네이버 커넥트재단 | ML | 23.07.03 - 23.07.28
+> - **2023 AI HACKERTHON** | 원티드 · 유데미 큐레이션 · 조코딩 | AI | 23.07.22 - 23.08.05
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
 > - [**챗GPT MS애저톤**](https://github.com/MOKY4/um-oh-ah-yeh-frontend) | AIFactory | FE(WEB) | 23.04.18 - 23.04.24
 > - [**구름톤 4기**](https://github.com/Levains-house/levains-frontend) | 카카오, 구름 | FE(WEB) | 22.12.13 - 22.12.16
-> - [**SKKUPORTER**](https://github.com/JLake310/SKKUporter-front) | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28
+<!-- > - [**SKKUPORTER**](https://github.com/JLake310/SKKUporter-front) | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28 -->
 <!-- > - **22년 동계 알고리즘 특강** | 삼성 SDS | 22.01.03 - 22.01.14 -->
 </br>
 
 
 🎓 **Education**
-> - **전자전기공학부 전공** | 성균관대학교 | 17.03 - 24.02
+> - **부스트캠프 AI Tech 5기** | 네이버 커넥트재단 | ML | 23.03.06 - 23.08.02
 > - **소프트웨어학과 복수전공** | 성균관대학교 | 21.03 - 24.02
+> - **전자전기공학부 전공** | 성균관대학교 | 17.03 - 24.02
+
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJLake310&count_bg=%23575BC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
@@ -61,6 +62,8 @@
 <!-- 	
 #### ✅ Used At Least Once ✅
 <p>
+ 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+	<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
