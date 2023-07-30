@@ -33,8 +33,10 @@
 📌 **Activities**
 > - [**부스트캠프 AI Tech 5기 최종프로젝트**](https://github.com/JLake310/level3_nlp_finalproject-nlp-07) | 네이버 커넥트재단 | ML | 23.07.03 - 23.07.28
 > - **2023 AI HACKERTHON** | 원티드 · 유데미 큐레이션 · 조코딩 | AI | 23.07.22 - 23.08.05
+> - **HOLLANG X Weeks52** | 콜라보 프로젝트 | ML, FE(WEB) | 23.04.26 - 23.10.31
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
 > - [**챗GPT MS애저톤**](https://github.com/MOKY4/um-oh-ah-yeh-frontend) | AIFactory | FE(WEB) | 23.04.18 - 23.04.24
+> - [**성균관대 메뉴 추천 좀**](https://skku-me-choo.vercel.app/) | 개인 프로젝트 | FE(WEB) | 23.06.03 - 23.06.05
 > - [**구름톤 4기**](https://github.com/Levains-house/levains-frontend) | 카카오, 구름 | FE(WEB) | 22.12.13 - 22.12.16
 <!-- > - [**SKKUPORTER**](https://github.com/JLake310/SKKUporter-front) | 소프트웨어공학개론 | FE(APP) | 22.10.02 - 22.11.28 -->
 <!-- > - **22년 동계 알고리즘 특강** | 삼성 SDS | 22.01.03 - 22.01.14 -->
