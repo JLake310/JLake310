@@ -27,7 +27,7 @@
 🏆 **Awards**
 > - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
 > - **제 3회 성균관대 AI·ICT 창의자율과제 공모전** | 2차 과제 선발 | ML | 성균관대학교 ICT명품인재양성사업단
-> - [**2023 AI HACKERTHON**](https://drive.google.com/file/d/1H92NuLZb5ZsLMHzJzaSoWSWbLTZY2NIU/view?usp=sharing) | 본선 입선 | AI | 23.07.22 - 23.08.05 | 원티드 · 유데미 큐레이션 · 조코딩
+> - [**2023 AI HACKERTHON**](https://drive.google.com/file/d/1Q4mopEod2WrYTT0ewiFGCe-DdGOUbiwz/view?usp=sharing) | 본선 입선 | AI | 23.07.22 - 23.08.05 | 원티드 · 유데미 큐레이션 · 조코딩
 > - [**캡스톤 디자인 경진대회**](https://github.com/JLake310/FindColorProject) | 장려상 | ML | 성균관대학교 소프트웨어대학
 </br>
 
