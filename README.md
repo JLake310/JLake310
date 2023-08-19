@@ -26,14 +26,14 @@
 
 🏆 **Awards**
 > - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
-> - **제 3회 성균관대 AI·ICT 창의자율과제 공모전** | 2차 과제 선발 | ML | 성균관대학교 ICT명품인재양성사업단
-> - [**2023 AI HACKERTHON**](https://drive.google.com/file/d/1Q4mopEod2WrYTT0ewiFGCe-DdGOUbiwz/view?usp=sharing) | 본선 입선 | AI | 23.07.22 - 23.08.05 | 원티드 · 유데미 큐레이션 · 조코딩
+> - [**제 3회 성균관대 AI·ICT 창의자율과제 공모전**](http://naver.me/xFrmZQnl) | 2차 과제 선발 | ML | 성균관대학교 ICT명품인재양성사업단
+> - [**2023 AI HACKERTHON**](https://drive.google.com/file/d/1Q4mopEod2WrYTT0ewiFGCe-DdGOUbiwz/view?usp=sharing) | 3등 | AI | 23.07.22 - 23.08.05 | 원티드 · 유데미 큐레이션 · 조코딩
 > - [**캡스톤 디자인 경진대회**](https://github.com/JLake310/FindColorProject) | 장려상 | ML | 성균관대학교 소프트웨어대학
 </br>
 
 📌 **Activities**
 > - [**부스트캠프 AI Tech 5기 최종프로젝트**](https://github.com/JLake310/level3_nlp_finalproject-nlp-07) | 네이버 커넥트재단 | ML | 23.07.03 - 23.07.2
-> - **HOLLANG X Weeks52** | 콜라보 프로젝트 | ML, FE(WEB) | 23.04.26 - 23.10.31
+> - [**HOLLANG X Weeks52**](https://hollang-weeks52.swygbro.com/) | 콜라보 프로젝트 | ML, FE(WEB) | 23.04.26 - 23.10.31
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
 > - [**챗GPT MS애저톤**](https://github.com/MOKY4/um-oh-ah-yeh-frontend) | AIFactory | FE(WEB) | 23.04.18 - 23.04.24
 > - [**성균관대 메뉴 추천 좀**](https://skku-me-choo.vercel.app/) | 개인 프로젝트 | FE(WEB) | 23.06.03 - 23.06.05
