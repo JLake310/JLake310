@@ -25,7 +25,7 @@
 </br>
 
 🏆 **Awards**
-> - **2023년 제3회 K-인공지능 제조데이터 분석 경진대회** | 입상 | ML | 중소벤처기업부 · 스마트제조혁신추진단 · KAIST
+> - **2023년 제3회 K-인공지능 제조데이터 분석 경진대회** | 최우수상 | ML | 중소벤처기업부 · 스마트제조혁신추진단 · KAIST
 > - [**제 3회 성균관대 AI·ICT 창의자율과제 공모전**](http://naver.me/xFrmZQnl) | 5등 | ML | 성균관대학교 · 과학기술정보통신부
 > - [**2023 AI HACKATHON**](https://drive.google.com/file/d/1Q4mopEod2WrYTT0ewiFGCe-DdGOUbiwz/view?usp=sharing) | 3등 | AI | 23.07.22 - 23.08.05 | 원티드 · 유데미 큐레이션 · 조코딩
 > - [**제 4회 대학생 AI x Bookathon 대회**](https://github.com/JLake310/Bookathon_4th_Jagga) | 장려상 | ML | 성균관대학교 학술정보관
