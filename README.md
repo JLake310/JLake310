@@ -24,6 +24,11 @@
 > - 동료, 조직과 **신뢰**를 기반으로 업무를 할 수 있는 환경을 선호합니다.
 </br>
 
+📚 **Work experience**
+> - 크로이스(CroisCo.,Ltd) | AI Researcher Intern | 23.09.20 - 23.12.19
+
+</br>
+
 🏆 **Awards**
 > - **2023년 제3회 K-인공지능 제조데이터 분석 경진대회** | 최우수상 | ML | 중소벤처기업부 · 스마트제조혁신추진단 · KAIST
 > - [**제 3회 성균관대 AI·ICT 창의자율과제 공모전**](http://naver.me/xFrmZQnl) | 5등 | ML | 성균관대학교 · 과학기술정보통신부
@@ -33,7 +38,7 @@
 </br>
 
 📌 **Activities**
-> - [**부스트캠프 AI Tech 5기 최종프로젝트**](https://github.com/JLake310/level3_nlp_finalproject-nlp-07) | 네이버 커넥트재단 | ML | 23.07.03 - 23.07.2
+> - [**부스트캠프 AI Tech 5기 최종프로젝트**](https://github.com/JLake310/level3_nlp_finalproject-nlp-07) | 네이버 커넥트재단 | ML | 23.07.03 - 23.07.24
 > - [**HOLLANG X Weeks52**](https://hollang-weeks52.swygbro.com/) | 콜라보 프로젝트 | ML, FE(WEB) | 23.04.26 - 23.10.31
 > - [**SWYG 5기**](https://github.com/swyg-goorm/swyg_RecSys) | SWYG | ML | 23.01.19 - 23.03.12
 > - [**챗GPT MS애저톤**](https://github.com/MOKY4/um-oh-ah-yeh-frontend) | AIFactory | FE(WEB) | 23.04.18 - 23.04.24
