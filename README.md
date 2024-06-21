@@ -26,6 +26,7 @@
 
 📚 **Work experience**
 > - 크로이스(CroisCo.,Ltd) | AI Researcher Intern | 23.09.20 - 23.12.19
+> - 주식회사 노타(Nota AI) | Researcher Engineer Intern | 24.01.09 - 재직중
 
 </br>
 
@@ -51,8 +52,8 @@
 
 🎓 **Education**
 > - **부스트캠프 AI Tech 5기** | 네이버 커넥트재단 | 23.03.06 - 23.08.02
-> - **소프트웨어학과 복수전공** | 성균관대학교 | 21.03 - 24.02
-> - **전자전기공학부 전공** | 성균관대학교 | 17.03 - 24.02
+> - **소프트웨어학과 복수전공** | 성균관대학교 | 21.03 - 24.08
+> - **전자전기공학부 전공** | 성균관대학교 | 17.03 - 24.08
 
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJLake310&count_bg=%23575BC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
