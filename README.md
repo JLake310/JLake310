@@ -29,7 +29,7 @@
 🏢 **Work experience**
 > - 주식회사 노타(Nota Inc.) | AI Researcher Engineer | 24.07.09 - 재직 중
 > - 주식회사 노타(Nota Inc.) | Researcher Engineer Intern | 24.01.09 - 24.07.08
-> - 크로이스(CroisCo.,Ltd) | AI Researcher Intern | 23.09.20 - 23.12.19
+> - 크로이스(CroisCo.,Ltd) | AI Engineer Intern | 23.09.20 - 23.12.19
 
 </br> 
 
