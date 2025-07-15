@@ -34,8 +34,8 @@
 </br> 
 
 📚 **Publications**
-> - [Unseen Language-Aware Detection System for Multilingual Machine-Generated Text](https://aclanthology.org/2025.genaidetect-1.19.pdf) | GenAIDetect | 2025.01
-> - [Assessing the Answerability of Queries in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2411.05547) | arXiv | 2024.11
+> - [**Unseen Language-Aware Detection System for Multilingual Machine-Generated Text**](https://aclanthology.org/2025.genaidetect-1.19.pdf) | GenAIDetect | 2025.01
+> - [**Assessing the Answerability of Queries in Retrieval-Augmented Code Generation**](https://arxiv.org/abs/2411.05547) | arXiv | 2024.11
 </br>
 
 
