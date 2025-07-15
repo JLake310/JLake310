@@ -26,12 +26,18 @@
 > - 동료, 조직과 **신뢰**를 기반으로 업무를 할 수 있는 환경을 선호합니다.
 </br>
 
-📚 **Work experience**
+🏢 **Work experience**
 > - 주식회사 노타(Nota Inc.) | AI Researcher Engineer | 24.07.09 - 재직 중
 > - 주식회사 노타(Nota Inc.) | Researcher Engineer Intern | 24.01.09 - 24.07.08
 > - 크로이스(CroisCo.,Ltd) | AI Researcher Intern | 23.09.20 - 23.12.19
 
+</br> 
+
+📚 **Publications**
+> - [Unseen Language-Aware Detection System for Multilingual Machine-Generated Text](https://aclanthology.org/2025.genaidetect-1.19.pdf) | GenAIDetect | 2025.01
+> - [Assessing the Answerability of Queries in Retrieval-Augmented Code Generation](https://arxiv.org/abs/2411.05547) | arXiv | 2024.11
 </br>
+
 
 🏆 **Awards**
 > - **[COLING 2025 Workshop on MGT Detection Task1](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/GenAIDetect/pdf/2025.genaidetect-1.19.pdf)** | 3rd place | NLP | MBZUAI NLP department
